@@ -1,0 +1,11 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
+    <EXCLUDED_PACKAGE NAME="android.support.v4.app" />
+    <EXCLUDED_PACKAGE NAME="android.support.v7.app.ActionBar" />
+    <EXCLUDED_PACKAGE NAME="java.util.Date" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="3" />
+  </component>
+</application>
