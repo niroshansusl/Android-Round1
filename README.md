@@ -31,3 +31,5 @@ Please write clean & maintainable code to implement the relevant functionality. 
 * The solution, after finished, should be send as pull request to original HQ repository.
 * Log your manhour and provide that infomation back in the pull request detail.
 * Attach final APK in this repository
+
+
